@@ -1,0 +1,560 @@
+"Rank","Name","Symbol","marketcap","price (USD)","country"
+"1","Johnson & Johnson","JNJ","432674406400","164.36","United States"
+"2","Roche","RHHBY","320679116800","46.01","Switzerland"
+"3","Pfizer","PFE","246357934080","43.94","United States"
+"4","Novo Nordisk","NVO","230592921600","100.7","Denmark"
+"5","Eli Lilly","LLY","221620682752","231.68","United States"
+"6","AbbVie","ABBV","189211967488","107.07","United States"
+"7","Astrazeneca","AZN","186979991552","60.35","United Kingdom"
+"8","Merck","MRK","186334150656","73.61","United States"
+"9","Novartis","NVS","185492865024","82.93","Switzerland"
+"10","Moderna
+","MRNA","173624295424","430.14","United States"
+"11","Bristol-Myers Squibb","BMY","133837684736","60.23","United States"
+"12","Amgen","AMGN","121298870272","213.61","United States"
+"13","Sanofi","SNY","120350007296","47.94","France"
+"14","CVS Health","CVS","111780773888","84.71","United States"
+"15","CSL","CSL.AX","103384697236","226.89","Australia"
+"16","Merck KGaA","MRK.DE","99436006958","228.71","Germany"
+"17","Zoetis","ZTS","97030553600","204.73","United States"
+"18","GlaxoSmithKline","GSK","96584245248","38.39","United Kingdom"
+"19","Gilead Sciences","GILD","89258737664","71.19","United States"
+"20","BioNTech","BNTX","80874569728","333.48","Germany"
+"21","Regeneron Pharmaceuticals","REGN","68333551616","638.9","United States"
+"22","WuXi AppTec
+","2359.HK","67948847295","22.79","China"
+"23","Chugai Pharmaceutical","4519.T","64079268318","38.98","Japan"
+"24","WuXi Biologics","WXXWY","63825268736","30.01","China"
+"25","Lonza","LONN.SW","59672692222","803.31","Switzerland"
+"26","Takeda Pharmaceutical","TAK","53120061440","16.89","Japan"
+"27","Bayer","BAYZF","53050896384","54","Germany"
+"28","Jiangsu Hengrui Medicine
+","600276.SS","49292080466","7.7","China"
+"29","Vertex Pharmaceuticals","VRTX","47633575936","183.61","United States"
+"30","Biogen","BIIB","43474411520","291.71","United States"
+"31","Walgreens Boots Alliance","WBA","41787523072","48.31","United States"
+"32","BeiGene
+","BGNE","35309703168","379.52","China"
+"33","West Pharma","WST","33816586240","457.11","United States"
+"34","Celltrion
+","068270.KS","31810412529","232.88","South Korea"
+"35","Astellas Pharma","ALPMF","31621957632","17.07","Japan"
+"36","LabCorp","LH","28570066944","296.37","United States"
+"37","Sun Pharmaceutical
+","SUNPHARMA.NS","25065442946","10.45","India"
+"38","Horizon Therapeutics
+","HZNP","24931809280","110.37","Ireland"
+"39","Otsuka Holdings
+","4578.T","24303898518","44.81","Japan"
+"40","Catalent","CTLT","24149352448","141.34","United States"
+"41","ICON plc","ICLR","22554382336","283.04","Ireland"
+"42","Royalty Pharma","RPRX","22526078976","37.1","United Kingdom"
+"43","Eisai","4523.T","22444966851","78.3","Japan"
+"44","Alnylam Pharmaceuticals
+","ALNY","22272114688","187.4","United States"
+"45","Bio-Techne","TECH","21144735744","538.88","United States"
+"46","kyowa Kirin","4151.T","20482197065","38.13","Japan"
+"47","Shionogi
+","4507.T","20458274601","67.86","Japan"
+"48","PPD","PPD","16459107328","46.85","United States"
+"49","Viatris","VTRS","16180299776","13.38","United States"
+"50","Argenx
+","ARGX","15830799360","308","Netherlands"
+"51","Sino Biopharmaceutical","1177.HK","15205524037","0.81","China"
+"52","Hansoh Pharma
+","3692.HK","14910573313","2.52","China"
+"53","Ono Pharmaceutical
+","4528.T","12090508461","24.22","Japan"
+"54","Intellia Therapeutics
+","NTLA","10959851520","149.14","United States"
+"55","Curevac","CVAC","10843554816","58.04","Germany"
+"56","Dr. Reddy's","RDY","10759793664","64.87","India"
+"57","Cipla","CIPLA.NS","10583919963","13.12","India"
+"58","Bausch Health
+","BHC","10355227648","28.86","Canada"
+"59","Teva Pharmaceutical Industries","TEVA","9866390528","8.95","Israel"
+"60","Ascendis Pharma
+","ASND","9321595904","164","Denmark"
+"61","Neurocrine Biosciences
+","NBIX","8990460928","94.99","United States"
+"62","CRISPR Therapeutics","CRSP","8872105984","116.43","Switzerland"
+"63","Gland Pharma
+","GLAND.NS","8560535758","52.12","India"
+"64","Vifor Pharma","VIFN.SW","8454005513","130.35","Switzerland"
+"65","Evotec","EVT.F","8354343970","50.75","Germany"
+"66","Jazz Pharmaceuticals","JAZZ","8305617920","135.35","Ireland"
+"67","Swedish Orphan Biovitrum","SOBI.ST","8167519064","27.67","Sweden"
+"68","Sinopharm","1099.HK","8117375504","2.6","China"
+"69","Hualan Biological Engineering","002007.SZ","7954099459","4.36","China"
+"70","Cadila Healthcare
+","CADILAHC.NS","7829755963","7.65","India"
+"71","Sumitomo Dainippon Pharma
+","4506.T","7394378748","18.61","Japan"
+"72","BridgeBio Pharma
+","BBIO","7274085376","48.57","United States"
+"73","Sarepta Therapeutics
+","SRPT","7231534592","90.57","United States"
+"74","Torrent Pharmaceuticals
+","TORNTPHARM.NS","7113380857","42.04","India"
+"75","Alkem Laboratories
+","ALKEM.NS","6489951538","54.28","India"
+"76","KOBAYASHI Pharmaceutical","4967.T","6449083513","82.51","Japan"
+"77","Exelixis","EXEL","6411247104","20.35","United States"
+"78","HUTCHMED","HCM","6320237056","36.56","Hong Kong"
+"79","Beam Therapeutics
+","BEAM","6281420800","94.67","United States"
+"80","Fate Therapeutics
+","FATE","6172714496","64.85","United States"
+"81","Abbott India","ABBOTINDIA.NS","6109741073","287.53","India"
+"82","Nippon Shinyaku","4516.T","5959812620","88.49","Japan"
+"83","Santen Pharmaceutical
+","4536.T","5920982539","14.81","Japan"
+"84","AbCellera
+","ABCL","5894589440","21.15","Canada"
+"85","Biocon","BIOCON.NS","5863037900","4.88","India"
+"86","Orion Corporation","ORNAV.HE","5806109567","41.49","Finland"
+"87","Perrigo","PRGO","5749745152","43","Ireland"
+"88","Lupin Limited
+","LUPIN.NS","5702354089","12.56","India"
+"89","Maravai LifeSciences
+","MRVI","5643221504","49.35","United States"
+"90","Lundbeck
+","LDB.F","5470344129","27.44","Denmark"
+"91","BB Biotech
+","BION.SW","5276789684","95.25","Switzerland"
+"92","Tilray
+","TLRY","5242408960","11.67","Canada"
+"93","Alkermes","ALKS","5175531008","32.08","Ireland"
+"94","Adaptive Biotechnologies
+","ADPT","5136551424","36.49","United States"
+"95","Taisho Pharmaceutical
+","4581.T","4893896623","61.31","Japan"
+"96","PeptiDream
+","4587.T","4467792573","34.42","Japan"
+"97","Laurus Labs
+","LAURUSLABS.NS","4439456571","8.27","India"
+"98","Ipca Laboratories
+","IPCALAB.NS","4131387292","32.56","India"
+"99","Editas Medicine
+","EDIT","4007620608","58.71","United States"
+"100","Reata Pharmaceuticals
+","RETA","3994244864","109.77","United States"
+"101","Hanmi Pharmaceutical
+","008930.KS","3816120609","57.86","South Korea"
+"102","NantKwest
+","NK","3552619264","32.49","United States"
+"103","Karuna Therapeutics","KRTX","3503294976","118.55","United States"
+"104","Nektar Therapeutics
+","NKTR","3402156288","18.51","United States"
+"105","Shinpoong Pharm","019170.KS","2939797121","54.38","South Korea"
+"106","Translate Bio
+","TBIO","2823919360","37.36","United States"
+"107","Cortexyme
+","CRTX","2780075264","93.65","United States"
+"108","Cytokinetics
+","CYTK","2766776064","33.13","United States"
+"109","BioCryst Pharmaceuticals
+","BCRX","2668740352","14.92","United States"
+"110","Sanofi India Limited","SANOFI.NS","2532412885","109.75","India"
+"111","Vericel
+","VCEL","2294255104","49.2","United States"
+"112","Dynavax Technologies
+","DVAX","2275690752","19.83","United States"
+"113","Ironwood Pharmaceuticals
+","IRWD","2190937856","13.45","United States"
+"114","Natco Pharma
+","NATCOPHARM.NS","2175585380","11.93","India"
+"115","Amarin Corporation
+","AMRN","2134630912","5.4","Ireland"
+"116","Alembic Pharmaceuticals","APLLTD.NS","2108635791","10.73","India"
+"117","Rocket Pharmaceuticals
+","RCKT","2063042176","32.02","United States"
+"118","Jubilant Life Sciences","JUBILANT.NS","1979878950","12.44","India"
+"119","Glenmark Pharmaceuticals
+","GLENMARK.NS","1944386353","6.89","India"
+"120","Trillium Therapeutics","TRIL","1837406976","17.53","Canada"
+"121","REGENXBIO","RGNX","1802853120","42.32","United States"
+"122","Rubius Therapeutics
+","RUBY","1669794688","18.6","United States"
+"123","Dicerna Pharmaceuticals","DRNA","1655738368","21.3","United States"
+"124","Codexis
+","CDXS","1652862720","25.57","United States"
+"125","Valneva SE","VALN","1562304640","31.28","France"
+"126","Kadmon Corp","KDMN","1530521600","8.83","United States"
+"127","Ocugen","OCGN","1496632704","7.53","United States"
+"128","Supernus Pharmaceuticals
+","SUPN","1477987456","27.81","United States"
+"129","Anavex Life Sciences
+","AVXL","1418756608","18.74","United States"
+"130","Portola Pharmaceuticals
+","PTLA","1415059328","18.03","United States"
+"131","Sangamo Therapeutics
+","SGMO","1395235200","9.6","United States"
+"132","Agenus
+","AGEN","1375378560","5.9","United States"
+"133","Coherus BioSciences
+","CHRS","1355993856","17.73","United States"
+"134","Avid Bioservices
+","CDMO","1353806848","22.07","United States"
+"135","Kura Oncology
+","KURA","1342483840","20.25","United States"
+"136","Arcturus Therapeutics
+","ARCT","1335047168","50.71","United States"
+"137","Axsome Therapeutics
+","AXSM","1258575488","33.4","United States"
+"138","Y-mAbs Therapeutics
+","YMAB","1250659968","28.7","United States"
+"139","Travere Therapeutics","RTRX","1238006144","24.25","United States"
+"140","ImmunoGen
+","IMGN","1194189440","5.9","United States"
+"141","MannKind Corp","MNKD","1168408704","4.68","United States"
+"142","Enanta Pharmaceuticals
+","ENTA","1132028800","56","United States"
+"143","Precigen","PGEN","1093141504","5.29","United States"
+"144","Hikal","HIKAL.NS","1053618544","8.54","India"
+"145","SPARC","SPARC.NS","1038453188","3.94","India"
+"146","Vaxart","VXRT","1023464064","8.17","United States"
+"147","RAPT Therapeutics","RAPT","1013516288","34.37","United States"
+"148","Vanda Pharmaceuticals","VNDA","960315328","17.26","United States"
+"149","ORIC Pharmaceuticals
+","ORIC","933402176","23.74","United States"
+"150","Mind Medicine","MNMD","923795520","2.51","United States"
+"151","Syndax Pharmaceuticals","SNDX","914198848","18.8","United States"
+"152","Adaptimmune Therapeutics","ADAP","899066944","5.76","United Kingdom"
+"153","Protagonist Therapeutics
+","PTGX","894426752","18.81","United States"
+"154","Zogenix","ZGNX","865855360","15.49","United States"
+"155","VBI Vaccines
+","VBIV","844826368","3.3","United States"
+"156","FDC India","FDC.NS","809950153","4.8","India"
+"157","Rite Aid
+","RAD","809775936","14.7","United States"
+"158","Ocular Therapeutix","OCUL","803354560","10.49","United States"
+"159","Mesoblast
+","MESO","802776000","6.2","Australia"
+"160","Cara Therapeutics
+","CARA","797932096","15.93","United States"
+"161","Kiniksa Pharmaceuticals
+","KNSA","796238464","11.62","Bermuda"
+"162","Amneal Pharmaceuticals
+","AMRX","792666176","5.31","United States"
+"163","Aarti Drugs","AARTIDRUGS.NS","770688324","8.32","India"
+"164","Endo International
+","ENDP","758875008","3.25","Ireland"
+"165","Precision BioSciences
+","DTIL","752467648","12.63","United States"
+"166","AnaptysBio","ANAB","750029184","27.34","United States"
+"167","Affimed
+","AFMD","749522368","6.26","Germany"
+"168","Curis","CRIS","732771200","8","United States"
+"169","Sequent Scientific","SEQUENT.NS","730468274","2.94","India"
+"170","Rafael Holdings","RFL","728489216","35.26","United States"
+"171","Strides Pharma","STAR.NS","727354071","8.1","India"
+"172","Collegium Pharmaceutical
+","COLL","726938368","20.44","United States"
+"173","Veru","VERU","724273024","9.07","United States"
+"174","Lexicon Pharmaceuticals
+","LXRX","713701568","4.94","United States"
+"175","CSB Bank
+","CSBBANK.NS","713119722","4.11","India"
+"176","Eagle Pharmaceuticals
+","EGRX","708684096","54.11","United States"
+"177","Mersana Therapeutics","MRSN","682451904","9.51","United States"
+"178","Antares Pharma","ATRS","652952576","3.79","United States"
+"179","BioSpecifics Technologies","BSTC","650249280","88.53","United States"
+"180","G1 Therapeutics
+","GTHX","639459328","15.1","United States"
+"181","Rigel Pharmaceuticals","RIGL","638979008","3.74","United States"
+"182","Cellectis","CLLS","609636032","13.41","France"
+"183","BeyondSpring","BYSI","603547520","15.43","United States"
+"184","Altimmune","ALT","594397312","14.97","United States"
+"185","Verastem Oncology
+","VSTM","573002880","3.17","United States"
+"186","Indoco Remedies
+","INDOCO.NS","560235914","6.06","India"
+"187","Innate Pharma
+","IPH.PA","554577950","7","France"
+"188","VistaGen Therapeutics
+","VTGN","545918336","2.83","United States"
+"189","Epizyme","EPZM","544992512","5.33","United States"
+"190","Avadel Pharmaceuticals
+","AVDL","536155200","9.15","Ireland"
+"191","ProQR","PRQR","522468288","7.79","Netherlands"
+"192","Theravance Biopharma
+","TBPH","515760800","7.02","Cayman Islands"
+"193","Cel-Sci
+
+","CVM","514186976","11.95","United States"
+"194","Summit Therapeutics
+","SMMT","508332960","5.22","United Kingdom"
+"195","Zomedica Pharmaceuticals","ZOM","507303136","0.52","United States"
+"196","Viking Therapeutics
+","VKTX","506669920","6.48","United States"
+"197","NRx Pharmaceuticals","NRXP","506546368","9.42","United States"
+"198","AC Immune","ACIU","502030176","6.91","Switzerland"
+"199","Akebia Therapeutics","AKBA","499175776","2.86","United States"
+"200","BELLUS Health","BLU","499009216","6.37","Canada"
+"201","Selecta Biosciences","SELB","497141312","4.32","United States"
+"202","Aldeyra Therapeutics
+","ALDX","491844000","8.5","United States"
+"203","Brooklyn ImmunoTherapeutics","BTX","490396576","9.48","United States"
+"204","Karyopharm Therapeutics
+","KPTI","472613088","6.26","United States"
+"205","PDS Biotechnology
+","PDSB","470698112","16.56","United States"
+"206","Arbutus Biopharma
+","ABUS","458124736","4.62","United States"
+"207","Marinus Pharmaceuticals","MRNS","441576352","12.02","United States"
+"208","Geron","GERN","439220640","1.37","United States"
+"209","Ziopharm Oncology","ZIOP","437584768","2.03","United States"
+"210","XBiotech","XBIT","435015808","14.32","United States"
+"211","Lineage Cell Therapeutics
+","LCTX","430372192","2.57","United States"
+"212","Atossa Therapeutics","ATOS","427985760","3.38","United States"
+"213","Kindred Biosciences
+","KIN","420526272","9.25","United States"
+"214","Jounce Therapeutics
+","JNCE","419590048","8.19","United States"
+"215","Clearside Biomedical
+","CLSD","406840480","6.84","United States"
+"216","Outlook Therapeutics
+","OTLK","399293792","2.3","United States"
+"217","Cassiopea","CSP.F","391152252","36.39","Italy"
+"218","Marksans Pharma
+","MARKSANS.NS","383231500","0.94","India"
+"219","Humanigen","HGEN","377825344","6.36","United States"
+"220","Pieris Pharmaceuticals","PIRS","374914112","5.62","United States"
+"221","Fortress Biotech
+","FBIO","357759488","3.54","United States"
+"222","Ampio Pharmaceuticals","AMPE","356815232","1.78","United States"
+"223","Cytosorbents","CTSO","353457344","8.15","United States"
+"224","Athenex
+","ATNX","351971776","3.22","United States"
+"225","CytomX Therapeutics
+","CTMX","342725824","5.26","United States"
+"226","EyePoint Pharmaceuticals
+","EYPT","337184416","11.72","United States"
+"227","Esperion Therapeutics","ESPR","327453440","11.58","United States"
+"228","Matinas BioPharma","MTNB","326523904","1.51","United States"
+"229","Oyster Point Pharma","OYST","319979584","12.3","United States"
+"230","Athersys","ATHX","319019552","1.41","United States"
+"231","Orchard Therapeutics
+","ORTX","309666368","2.47","United Kingdom"
+"232","Flexion Therapeutics
+","FLXN","308290592","6.13","United States"
+"233","TherapeuticsMD","TXMD","305148256","0.72","United States"
+"234","Citius Pharmaceuticals
+","CTXR","305096128","2.09","United States"
+"235","Syros Pharmaceuticals
+","SYRS","295409920","4.77","United States"
+"236","Solid Biosciences
+","SLDB","294492992","2.67","United States"
+"237","Immutep","IMMP","291031520","3.89","Australia"
+"238","Corvus Pharmaceuticals
+","CRVS","288464160","6.8","United States"
+"239","Hester Biosciences
+","HESTERBIO.NS","288081718","33.86","India"
+"240","Cerecor","CERC","284989664","2.93","United States"
+"241","CTI BioPharma
+","CTIC","283662112","3.04","United States"
+"242","PDL Biopharma
+","PDLI","282140704","2.47","United States"
+"243","Sierra Oncology
+","SRRA","281985472","22.45","Canada"
+"244","Neuland Laboratories","NEULANDLAB.NS","267455233","20.85","India"
+"245","CymaBay Therapeutics
+","CBAY","262192032","3.8","United States"
+"246","AVROBIO","AVRO","260866144","5.98","United States"
+"247","Harpoon Therapeutics
+","HARP","260051616","7.96","United States"
+"248","Frequency Therapeutics
+","FREQ","258815840","7.52","United States"
+"249","Paratek Pharmaceuticals
+","PRTK","258123968","5.29","United States"
+"250","iBio","IBIO","254884496","1.17","United States"
+"251","Galectin Therapeutics","GALT","245991248","4.15","United States"
+"252","Immunic","IMUX","242019472","9.22","United States"
+"253","Aduro Biotech","ADRO","236611232","14.6","United States"
+"254","Ovid Therapeutics
+","OVID","234365408","3.45","United States"
+"255","Redhill Biopharma","RDHL","233132784","4.99","Israel"
+"256","AVEO Oncology
+","AVEO","229618320","6.68","United States"
+"257","Aptose Biosciences","APTO","223261248","2.51","Canada"
+"258","Adamas Pharmaceuticals
+","ADMS","222507504","4.88","United States"
+"259","Adverum Biotechnologies
+","ADVM","218820768","2.23","United States"
+"260","Tonix Pharmaceuticals","TNXP","216765584","0.61","United States"
+"261","Seelos Therapeutics
+","SEEL","213838336","2.09","United States"
+"262","Leap Therapeutics
+","LPTX","213029040","3.57","United States"
+"263","Trevena","TRVN","202346064","1.23","United States"
+"264","Kala Pharmaceuticals","KALA","192314464","2.96","United States"
+"265","MediciNova","MNOV","190975984","3.9","United States"
+"266","Tyme Technologies
+","TYME","185983584","1.08","United States"
+"267","Zynerba Pharmaceuticals
+","ZYNE","183981696","4.46","United States"
+"268","Cormedix","CRMD","177482624","4.66","United States"
+"269","Calithera Biosciences
+","CALA","171204256","2.31","United States"
+"270","Nymox Pharmaceutical","NYMX","170811232","2.04","Bahamas"
+"271","Aquestive Therapeutics
+","AQST","168378544","4.33","United States"
+"272","Milestone Pharmaceuticals
+","MIST","167137600","5.6","Canada"
+"273","Synlogic","SYBX","166023360","3.17","United States"
+"274","ADMA Biologics
+","ADMA","165961248","1.25","United States"
+"275","Xeris Pharmaceuticals","XERS","165578528","2.49","United States"
+"276","Sesen Bio
+","SESN","163192096","0.83","United States"
+"277","Unity Biotechnology
+","UBX","162006352","2.94","United States"
+"278","Aptinyx","APTX","161840528","2.39","United States"
+"279","Sellas Life Sciences","SLS","159056480","10.02","United States"
+"280","Orphazyme","ORPH","158202000","4.4","Denmark"
+"281","ContraFect","CFRX","157724144","4.01","United States"
+"282","RPG Life Sciences
+","RPGLIFE.NS","156779561","9.48","India"
+"283","Bliss GVS Pharma","BLISSGVS.NS","156071573","1.51","India"
+"284","vTv Therapeutics
+","VTVT","152416672","1.83","United States"
+"285","Savara Pharmaceuticals","SVRA","148002400","1.3","United States"
+"286","Anixa Biosciences","ANIX","146455008","4.89","United States"
+"287","Cyclerion Therapeutics
+","CYCN","146275248","3.38","United States"
+"288","PhaseBio Pharmaceuticals
+","PHAS","145568768","3.03","United States"
+"289","Strongbridge Biopharma","SBBP","141762608","2.09","United States"
+"290","IMV
+","IMV","141285280","1.72","Canada"
+"291","X4 Pharmaceuticals
+","XFOR","137677856","5.54","United States"
+"292","Ardelyx","ARDX","135085888","1.31","United States"
+"293","Genprex","GNPX","132602840","2.79","United States"
+"294","Corbus Pharmaceuticals
+","CRBP","130240232","1.04","United States"
+"295","Lannett Company","LCI","130210384","3.08","United States"
+"296","SCYNEXIS","SCYX","129555880","5.58","United States"
+"297","AcelRx Pharmaceuticals
+","ACRX","126330792","1.06","United States"
+"298","NuCana
+","NCNA","125188808","2.4","United Kingdom"
+"299","BrainStorm Cell Therapeutics","BCLI","122393680","3.37","United States"
+"300","Dare Bioscience
+","DARE","122003064","1.73","United States"
+"301","Evofem Biosciences
+","EVFM","120643176","0.78","United States"
+"302","Capricor Therapeutics
+","CAPR","120406104","5.23","United States"
+"303","Abeona Therapeutics
+","ABEO","119447856","1.18","United States"
+"304","Genocea Biosciences
+","GNCA","119162600","2.09","United States"
+"305","Oncolytics Biotech
+","ONCY","118163360","2.15","Canada"
+"306","Hepion Pharmaceuticals","HEPA","118149208","1.55","United States"
+"307","GlycoMimetics
+","GLYC","118024312","2.29","United States"
+"308","cbdMD","YCBD","117865280","2.04","United States"
+"309","InflaRx
+","IFRX","117535560","2.66","Germany"
+"310","Voyager Therapeutics
+","VYGR","111530664","2.94","United States"
+"311","Concert Pharmaceuticals
+","CNCE","109069184","3.39","United States"
+"312","Aerpio Pharmaceuticals
+","ARPO","104853104","2.2","United States"
+"313","Cocrystal Pharma
+","COCP","100392864","1.03","United States"
+"314","Acasti Pharma
+","ACST","100091328","2.26","Canada"
+"315","Aileron Therapeutics
+","ALRN","99609184","1.1","United States"
+"316","Iterum Therapeutics","ITRM","98406064","0.54","Ireland"
+"317","AIM ImmunoTech
+","AIM","98089624","2.05","United States"
+"318","Tempest Therapeutics","TPST","97532144","14.55","United States"
+"319","Lipocine","LPCN","97119664","1.1","United States"
+"320","Agile Therapeutics
+","AGRX","95790000","1.03","United States"
+"321","Recro Pharma
+","REPH","95559720","2.05","United States"
+"322","Aptorum Group
+","APM","94717552","2.66","Hong Kong"
+"323","Adial Pharmaceuticals
+","ADIL","94675168","4.63","United States"
+"324","Nectar Lifesciences
+","NECLIFE.NS","90315921","0.4","India"
+"325","miRagen Therapeutics","MGEN","89926760","23.01","United States"
+"326","Achieve Life Sciences
+","ACHV","88567304","9.37","Canada"
+"327","Celsion Corporation
+","CLSN","87423272","1.01","United States"
+"328","Minerva Neurosciences
+","NERV","87152064","2.04","United States"
+"329","Stealth BioTherapeutics
+","MITO","82919232","1.44","Cayman Islands"
+"330","Zosano Pharma","ZSAN","82312352","0.71","United States"
+"331","Avalon GloboCare","AVCO","82066536","0.96","United States"
+"332","Aytu BioScience
+","AYTU","81829144","2.97","United States"
+"333","electroCore","ECOR","80608288","1.16","United States"
+"334","VYNE Therapeutics","VYNE","76752584","1.49","United States"
+"335","Galmed Pharmaceuticals
+","GLMD","76505896","3.05","Israel"
+"336","Advaxis","ADXS","73503496","0.5","United States"
+"337","Allena Pharmaceuticals
+","ALNA","73440944","0.92","United States"
+"338","Oragenics","OGEN","73330664","0.63","United States"
+"339","Unum Therapeutics","UMRX","73230464","2.35","United States"
+"340","Regulus Therapeutics","RGLS","64209632","0.74","United States"
+"341","Onconova Therapeutics","ONTX","63755240","4.04","United States"
+"342","Mallinckrodt Pharmaceuticals
+","MNK","63441752","0.75","United Kingdom"
+"343","Rockwell Medical
+","RMTI","61318840","0.65","United States"
+"344","Organovo","ONVO","61198684","7.03","United States"
+"345","Protalix BioTherapeutics
+","PLX","59679144","1.31","Israel"
+"346","Nabriva Therapeutics
+","NBRV","58691900","1.18","Ireland"
+"347","NanoViricides","NNVC","58445400","5.08","United States"
+"348","Merrimack Pharmaceuticals","MACK","58200272","4.34","United States"
+"349","Neos Therapeutics
+","NEOS","57222044","1.15","United States"
+"350","Acorda Therapeutics
+","ACOR","52728232","4.74","United States"
+"351","Diffusion Pharmaceuticals
+","DFFN","51451328","0.5","United States"
+"352","Baudax Bio
+","BXRX","51148396","0.61","United States"
+"353","Cleveland BioLabs
+","CBLI","49068116","3.17","United States"
+"354","Pulmatrix","PULM","44228668","0.79","United States"
+"355","Evoke Pharma
+","EVOK","43793192","1.35","United States"
+"356","Assertio Therapeutics
+","ASRT","41824452","0.94","United States"
+"357","Soligenix","SNGX","41106396","1.03","United States"
+"358","Bellerophon Therapeutics
+","BLPH","39451644","4.15","United States"
+"359","Auris Medical","EARS","39187932","3.05","Bermuda"
+"360","AgeX Therapeutics
+","AGE","36798988","0.97","United States"
+"361","Teligent","TLGT","35214964","0.38","United States"
+"362","Can Fite Biopharma
+","CANF","34501424","1.68","Israel"
+"363","AzurRx BioPharma
+","AZRX","34379836","3.45","United States"
+"364","PainReform","PRFX","31970404","3.05","Israel"
+"365","Novus Therapeutics
+","NVUS","20970272","14.6","United States"
+"366","Millendo Therapeutics
+","MLND","20185578","1.06","United States"
+"367","Titan Pharmaceuticals
+","TTNP","19333578","1.96","United States"
+"368","resTORbio","TORC","11873533","2.28","United States"
